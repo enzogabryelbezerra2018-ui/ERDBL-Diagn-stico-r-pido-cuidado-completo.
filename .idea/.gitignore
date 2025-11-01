@@ -1,0 +1,19 @@
+# Arquivos de configuração da IDE (JetBrains)
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/dictionaries
+/.idea/shelf
+/.idea/misc.xml
+# Remova as linhas acima se você quiser compartilhar essas configurações com o time
+
+# Ignorar a pasta completa de módulos para IDEs mais antigas
+# /.idea/modules/
+
+# Configurações de usuário
+# Arquivos que armazenam configurações específicas do seu ambiente local
+/.idea/httpRequests/
+/.idea/dataSources/
+/.idea/deployment.xml
+/.idea/jsLibraryMappings.xml
+/.idea/fileTemplates/
