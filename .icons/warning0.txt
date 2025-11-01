@@ -1,0 +1,11 @@
++--------------------------------------------------+
+| ⚠️  WARNING! RADIOACTIVE SAND  ⚠️              |
+|                                                  |
+|   ☢️                                             |
+|                                                  |
+|   This area contains radioactive sand.          |
+|   Exposure can be dangerous.                    |
+|   Keep a safe distance and use protection.      |
+|                                                  |
+|   Danger Level: HIGH                             |
++--------------------------------------------------+
