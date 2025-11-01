@@ -1,0 +1,28 @@
+# .icons/warning-carton-1.txt
+# Aviso: Tarde Demais
+
+        ______________________
+       / \                    / \
+      / ! \  !!! A T E N Ç Ã O !!!  / ! \
+     /_____\______________________/_____\
+
+     +----------------------------------+
+     |                                  |
+     |         SINAIS VITAIZ ESTÁVEIS...|
+     |                                  |
+     |      MAS O TEMPO PASSOU.         |
+     |                                  |
+     |         AGORA, É TARDE DEMAIS.   |
+     |                                  |
+     +----------------------------------+
+
+          __ / \ __
+         |  | / \ |  |
+         |  |/   \|  |
+         |  \ O R A |  |
+         |___\ /___|
+             | |
+             \_/
+
+  "Quando você ouvir o tique-taque,
+   não é um lembrete. É o fim."
