@@ -59,4 +59,3 @@ O fator chave para a segurança das partículas beta é a facilidade de blindage
 > **NOTA DE SEGURANÇA:** O acrílico (perspex) é preferido ao chumbo para blindar partículas beta de alta energia, pois o chumbo pode gerar "Bremsstrahlung" (raios X secundários) ao interagir com elétrons rápidos. O acrílico, sendo de baixo número atômico, minimiza essa produção.
 
 ---
-**Próximo Passo:** Com o POP de Inspeção e o guia de Uso/Conservação das VPRs prontos, você gostaria de criar um **Modelo de Registro de Inspeção** (como um formulário a ser preenchido) ou um **POP sobre o Descarte de Vestimentas Danificadas**?
