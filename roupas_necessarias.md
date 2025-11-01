@@ -54,7 +54,3 @@ Além das vestimentas, outros itens são indispensáveis para o uso seguro da ra
 > * Devem ser armazenadas em suportes apropriados, sem serem dobradas, para evitar danos na blindagem interna.
 
 ---
-
-Para garantir que a ERDBL opere com a máxima segurança, o próximo passo pode ser detalhar como esses itens serão inspecionados.
-
-Gostaria que eu criasse um **POP (Procedimento Operacional Padrão)** para **Inspeção e Manutenção de VPRs (Vestimentas de Proteção Radiológica)**?
